@@ -93,9 +93,9 @@ repo_url: https://github.com/Andre601/mkdocs-template
 # | - https://www.mkdocs.org/user-guide/configuration/#documentation-layout                                |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-nav:
-  - Welcome: index.md
-  - Ляпис Трубецкой: lyapis-trubeckoj.md  
+#nav:
+#  - Welcome: index.md
+#  - Ляпис Трубецкой: lyapis-trubeckoj.md  
 
 
 # +--------------------------------------------------------------------------------------------------------+
