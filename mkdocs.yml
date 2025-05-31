@@ -27,9 +27,9 @@
 # | - https://www.mkdocs.org/user-guide/configuration/#site_url                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-site_name: MkDocs Template
-site_description: 'A template for future MkDocs wikis'
-site_author: 'Andre_601'
+site_name: Камеди-рок на русском ВИКИ
+site_description: 'Когда рок соединяется с весельем'
+site_author: 'Славелий Роза'
 site_url: https://utkorose.ru/ru-comedy-rock/
 
 
