@@ -47,7 +47,7 @@ site_url: https://utkorose.ru/ru-comedy-rock/
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
 copyright: |
-  &copy; Author
+  &copy; Славелий Роза
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -77,8 +77,8 @@ docs_dir: docs/
 # | - https://www.mkdocs.org/user-guide/configuration/#edit_uri                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-repo_name: Andre601/mkdocs-template
-repo_url: https://github.com/Andre601/mkdocs-template
+#repo_name: Andre601/mkdocs-template
+#repo_url: https://github.com/Andre601/mkdocs-template
 #edit_uri: tree/master/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+
